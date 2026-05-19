@@ -6,3 +6,20 @@
     padding: 20px;
     border-radius: 25px;
 }
+
+.inserir-tarefa{
+    display: flex;
+    width: 640px;
+    gap: 16px;
+}
+
+.inserir-tarefa input{
+    flex: 4;
+    height: 40px;
+}
+
+.inserir-tarefa button{
+    flex: 1;
+    height: 44px;
+    font-size: 22px;
+}
