@@ -23,3 +23,20 @@
     height: 44px;
     font-size: 22px;
 }
+
+.delete{
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+}
+
+.edit{
+    background-color: #00ff00;
+    color: #fff;
+    border: none;
+}
+
+.tarefa{
+    display: flex;
+    justify-content: space-between;
+}
